@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "germancutraro",
+  "author": "Akshay",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.7.4",
