@@ -25,7 +25,7 @@ npm start
 
 ## Author
 
-**germancutraro**
+**Akshay**
 
 ## Why
 
